@@ -81,10 +81,29 @@
     width: 25%;
     background-image: url(images/dinner.jpg);
 }
+#bash{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
 #joy>ul li{
     list-style: none;
     display: block;
     border: 2px hidden;
+}
+.word{
+    align-items: flex-start;
+    justify-content: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#type{
+    background-color: #fff;
+    color: #f15e29;
+    border-radius: 4px;
+    font-size: 15px;
+    border-color: #f15e29;
+    width: 200px;
 }
 
 
