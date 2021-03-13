@@ -81,7 +81,11 @@
     width: 25%;
     background-image: url(images/dinner.jpg);
 }
-
+#joy>ul li{
+    list-style: none;
+    display: block;
+    border: 2px hidden;
+}
 
 
 
